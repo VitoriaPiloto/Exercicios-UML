@@ -35,7 +35,7 @@ As cores podem ser escolhidas entre os tons: preto, branco, azul, amarelo ou cin
 _Cenário:_<br>
 Professora Cristina decidiu criar uma classe que permita mover um boneco na tela. Esse boneco deve ter nome, posição da coordenada X, posição da coordenada Y e direção atual (cima, baixo, direita, esquerda).
 
-## 4. Horário de remédios
+### 4. Horário de remédios
 _Cenário:_<br>
 As informações a seguir se referem a uma aplicação de controle pessoal de horário de remédios, existente no palm de Maurício. Para cada remédio cadastra-se: o nome de quem vai tomar o remédio, a data de início, a quantidade de dias que foi prescrita pelo médico, a quantidade de vezes ao dia, a dosagem e o nome do remédio. <br>
 Ao cadastrar o remédio, a aplicação sugere todos os horários possíveis para tomar remédio. O usuário escolhe o melhor horário e a aplicação avisa até quando o remédio deve ser tomado e prepara uma planilha de horários. <br>
